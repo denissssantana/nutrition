@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2? family= Shadows+Into+Light & display=swap');
+
+.div1 {
+    height: 150px;
+    width: 150px;
+    background-color: chartreuse;
+}
+
+.div2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    background-color: rgb(55, 100, 10);
+    height: 75px;
+    width: 150px;
+}
+
+.box1 {
+    height: 150px;
+    width: 50%;
+    background-color: lightblue;
+    border: solid 10px;
+    margin-left: 65px;
+    margin-top: 50px;
+    padding: 15px;
+}
+
+.borda1 {
+    border: solid 2px #3817ca;
+    margin-left: 50px;
+    padding: 15px;
+
+}
+
+.borda2 {
+    border: dotted 5px #ca4a17;
+}
